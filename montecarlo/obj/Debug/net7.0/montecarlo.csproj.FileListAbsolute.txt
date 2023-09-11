@@ -1,0 +1,15 @@
+/Users/khunfloat/Documents/montecarlo/montecarlo/bin/Debug/net7.0/montecarlo
+/Users/khunfloat/Documents/montecarlo/montecarlo/bin/Debug/net7.0/montecarlo.deps.json
+/Users/khunfloat/Documents/montecarlo/montecarlo/bin/Debug/net7.0/montecarlo.runtimeconfig.json
+/Users/khunfloat/Documents/montecarlo/montecarlo/bin/Debug/net7.0/montecarlo.dll
+/Users/khunfloat/Documents/montecarlo/montecarlo/bin/Debug/net7.0/montecarlo.pdb
+/Users/khunfloat/Documents/montecarlo/montecarlo/obj/Debug/net7.0/montecarlo.csproj.AssemblyReference.cache
+/Users/khunfloat/Documents/montecarlo/montecarlo/obj/Debug/net7.0/montecarlo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khunfloat/Documents/montecarlo/montecarlo/obj/Debug/net7.0/montecarlo.AssemblyInfoInputs.cache
+/Users/khunfloat/Documents/montecarlo/montecarlo/obj/Debug/net7.0/montecarlo.AssemblyInfo.cs
+/Users/khunfloat/Documents/montecarlo/montecarlo/obj/Debug/net7.0/montecarlo.csproj.CoreCompileInputs.cache
+/Users/khunfloat/Documents/montecarlo/montecarlo/obj/Debug/net7.0/montecarlo.dll
+/Users/khunfloat/Documents/montecarlo/montecarlo/obj/Debug/net7.0/refint/montecarlo.dll
+/Users/khunfloat/Documents/montecarlo/montecarlo/obj/Debug/net7.0/montecarlo.pdb
+/Users/khunfloat/Documents/montecarlo/montecarlo/obj/Debug/net7.0/montecarlo.genruntimeconfig.cache
+/Users/khunfloat/Documents/montecarlo/montecarlo/obj/Debug/net7.0/ref/montecarlo.dll

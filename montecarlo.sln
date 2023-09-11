@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "montecarlo", "montecarlo\montecarlo.csproj", "{E8745038-001C-404D-96EA-763E782BDBFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8745038-001C-404D-96EA-763E782BDBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8745038-001C-404D-96EA-763E782BDBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8745038-001C-404D-96EA-763E782BDBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8745038-001C-404D-96EA-763E782BDBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
